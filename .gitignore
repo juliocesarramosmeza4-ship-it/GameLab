@@ -1,0 +1,72 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Aa]sset[Hh]unter[Bb]ackup/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+/[Bb]uilds/
+/[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+/Assets/AssetStoreTools*
+*.apk
+*.unitypackage
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+*.pidb.meta
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+.consulo/
+/*.tmp
+/*.svd
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+Corridor/Library/ShaderCache/
+Corridor/Library/metadata/
+# Ignorar carpetas generadas automáticamente por Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Ss]napshotBackups/
+
+# Ignorar archivos generados automáticamente por Unity
+.DS_Store
+.EditorUserSettings
+.vsconfig
+
+# Archivos de solución y proyecto de Visual Studio/Rider
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Excluir el archivo de solución de tu proyecto principal si tienes varios
+# Quita el numeral (#) si quieres que Git ignore el archivo Mi Game Lab.sln o similares
+# Mi Game Lab.sln
